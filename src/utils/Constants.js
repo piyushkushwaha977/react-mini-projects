@@ -1,0 +1,2 @@
+export const YOUTUBE_SEARCH_SUGGESTION_API_URL =
+'https://cors-handlers.vercel.app/api/?url=https%3A%2F%2Fclients1.google.com%2Fcomplete%2Fsearch%3Fclient%3Dfirefox%26ds%3Dyt%26q%3Dhttp%3A%2F%2Fsuggestqueries.google.com%2Fcomplete%2Fsearch%3Fclient%3Dfirefox%26ds%3Dyt%26q%3D'
